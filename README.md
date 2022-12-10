@@ -59,3 +59,4 @@ If you find this code useful for your research, please cite the paper:
 
 ## Acknowledgement:
 We refer to python codes from [Texture-Reformer](https://github.com/EndyWon/Texture-Reformer) and [Collaborative-Distillation](https://github.com/MingSun-Tse/Collaborative-Distillation). Great thanks to them!
+Inputs are taken from [Multi-Atlas Labeling Beyond the Cranial Vault](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789).
