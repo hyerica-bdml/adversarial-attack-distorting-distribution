@@ -8,12 +8,12 @@ Official Pytorch code for ["Adversarial Attack Medical Images by Distorting the 
 
 
 ## Environment:
-Python 3.9  
-Pytorch 1.11.0  
-Torchvision 0.12.0  
-Pillow 9.0.1  
-Numpy 1.22.3  
-opencv-python 4.6.0  
+- Python 3.9
+- Pytorch 1.11.0
+- Torchvision 0.12.0
+- Pillow 9.0.1
+- Numpy 1.22.3
+- opencv-python 4.6.0
 
 ## Getting Started:
 #### Step 1: Clone this repo
