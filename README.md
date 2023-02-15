@@ -3,6 +3,8 @@
 
 Official Pytorch code for ["Adversarial Attack Medical Images by Distortion of Feature Distribution"]() (Feb. 2023)
 
+<img src="./figs/case_study.png" width="600">
+
 ## Introduction:
 **Motivation:** Deep learning-based segmentation models have been extensively applied to medical procedures such as organ segmentation, brain tumor detection, breast cancer screening and skin lesion segmentation. 
 However, it was revealed that deep learning-based models are vulnerable from adversarial attacks which are gradient-based methods to maximize the prediction loss. 
