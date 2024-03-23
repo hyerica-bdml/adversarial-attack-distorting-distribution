@@ -59,8 +59,15 @@ Runtime controls
 ## Citation:
 If you find this code useful for your research, please cite the paper:
 ```
-@inproceedings{
-
+@article{lee2024adversarial,
+  title={Adversarial Attacks on Medical Segmentation Model via Transformation of Feature Statistics},
+  author={Lee, Woonghee and Ju, Mingeon and Sim, Yura and Jung, Young Kul and Kim, Tae Hyung and Kim, Younghoon},
+  journal={Applied Sciences},
+  volume={14},
+  number={6},
+  pages={2576},
+  year={2024},
+  publisher={MDPI}
 }
 ```
 
