@@ -1,6 +1,6 @@
 # Adversarial Attacks on Medical Segmentation Model via Transformation of Feature Statistics
 
-Official Pytorch code for ["Adversarial Attacks on Medical Segmentation Model via Transformation of Feature Statistics"]() 
+Official Pytorch code for ["Adversarial Attacks on Medical Segmentation Model via Transformation of Feature Statistics"](https://www.mdpi.com/2076-3417/14/6/2576) 
 
 <img src="./figs/case_study.png" width="600">
 
@@ -30,7 +30,7 @@ Official Pytorch code for ["Adversarial Attacks on Medical Segmentation Model vi
 
 #### Step 2: Prepare models
 
-- Download the pre-trained auto-encoder models from this [google drive](). Unzip and place them at path `weights/`.
+- Download the pre-trained auto-encoder models from this [google drive](https://drive.google.com/file/d/13n_YJ6J8lIvF-liWFeJY35nXsZM-5vTZ/view?usp=sharing). Unzip and place them at path `weights/`.
 
 #### Step 3: Run transfer script
 
